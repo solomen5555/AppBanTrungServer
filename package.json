@@ -1,6 +1,7 @@
 {
   "name": "appbantrungserver",
   "version": "1.0.0",
+  "private":"true",
   "description": "backend_AppBanTrung",
   "main": "index.js",
   "scripts": {
